@@ -1,5 +1,17 @@
 # v0.1.10 (Mon Feb 20 2023)
 
+#### ⚠️ Pushed to `main`
+
+- Update main.js ([@arcofine](https://github.com/arcofine))
+
+#### Authors: 1
+
+- Armando Neto ([@arcofine](https://github.com/arcofine))
+
+---
+
+# v0.1.10 (Mon Feb 20 2023)
+
 
 
 ---
