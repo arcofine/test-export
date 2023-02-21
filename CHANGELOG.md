@@ -1,6 +1,16 @@
 # v0.1.4 (Mon Feb 20 2023)
 
+#### ⚠️ Pushed to `main`
 
+- Update package.json (armandoneto75@yahoo.ca)
+
+#### Authors: 1
+
+- Armando Neto (armandoneto75@yahoo.ca)
+
+---
+
+# v0.1.4 (Mon Feb 20 2023)
 
 ---
 
